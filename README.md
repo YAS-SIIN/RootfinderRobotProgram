@@ -2,6 +2,8 @@
 
 A line-following robot control system developed for the university robotics team "Aras" using BASCOM-AVR programming language. This project implements path-finding algorithms for autonomous robot navigation with sensor-based decision making.
 
+<img width="1555" height="631" alt="image" src="https://github.com/user-attachments/assets/2c52d4c8-bdf3-4860-8254-8e8a1c15a5e3" />
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
