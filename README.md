@@ -197,7 +197,7 @@ See `PDF/ISIS Professional - UNTITLED.pdf` and the included circuit image for de
 **Robotics Team**: Aras (آراس)
 
 ### Contributors
-- **Sadeg Asadnezhad** - Hardware Design & Programming
+- [**Sadeg Asadnezhad**](https://github.com/sadeq1996) - Hardware Design & Programming
 - **Ali Shrimohamadi** - System Integration & Testing
 
 ### Special Thanks
